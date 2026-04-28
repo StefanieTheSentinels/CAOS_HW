@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/artemiy/Brainfuck/HSE_2_year/CAOS/hw_1/output/task_4'
+relocations:     []
+...
